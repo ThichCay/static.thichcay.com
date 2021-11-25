@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.5.0",
+    "latest": "^0.2.0"
+  }
+}
