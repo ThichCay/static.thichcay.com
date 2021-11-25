@@ -32,6 +32,8 @@ jobs:
 
       - name: npm install -g firebase-tools
         run: npm install -g firebase-tools
+      - name: npm install firebase
+        run: npm install firebase
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
